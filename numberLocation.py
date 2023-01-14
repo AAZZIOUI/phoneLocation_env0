@@ -1,17 +1,4 @@
 # %% [markdown]
-# STEPS TO CREATE THIS CLOSED JUPYTER ENVIRONMENT:
-# 
-# inspired by: https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-18-04
-# 
-# 
-#     1. Go TO your workspace folder: WS
-#     2. $ mkdir ~/my_project_dir
-#     3. $ virtualenv my_project_env
-#     4. source my_project_env/bin/activate
-#     5. CTRL+Shift+P to open "Command palette" which you can find also in section "View"
-#     6. find "Create New Jupyter Notebook" and click on it.
-#     7. save it in the location you want in the chosen environment
-#     8. to deactivate a python Environment: $ deactivate
 # 
 # 
 
